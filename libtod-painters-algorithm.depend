@@ -1,290 +1,7 @@
 # depslib dependency file v1.0
-1552770936 source:/home/dave/Development/wizardry/libtcod-first-person/src/actor.cpp
+1553470095 source:/home/dave/Development/wizardry/libtcod-first-person/src/actor.cpp
 	"libtcod.hpp"
 	"actor.hpp"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/libtcod.hpp
-	"libtcod.h"
-	"bresenham.hpp"
-	"bsp.hpp"
-	"color.hpp"
-	"console.hpp"
-	"fov.hpp"
-	"heightmap.hpp"
-	"image.hpp"
-	"lex.hpp"
-	"list.hpp"
-	"mersenne.hpp"
-	"mouse.hpp"
-	"namegen.hpp"
-	"noise.hpp"
-	"parser.hpp"
-	"path.hpp"
-	"sys.hpp"
-	"tree.hpp"
-	"txtfield.hpp"
-	"zip.hpp"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/libtcod.h
-	"libtcod_portability.h"
-	"libtcod_utility.h"
-	"libtcod_version.h"
-	"bresenham.h"
-	"bsp.h"
-	"color.h"
-	"console.h"
-	"console_rexpaint.h"
-	"fov.h"
-	"heightmap.h"
-	"image.h"
-	"lex.h"
-	"list.h"
-	"mersenne.h"
-	"mouse.h"
-	"namegen.h"
-	"noise.h"
-	"path.h"
-	"parser.h"
-	"sys.h"
-	"tree.h"
-	"txtfield.h"
-	"zip.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/libtcod_portability.h
-	<wchar.h>
-	"external/pstdint.h"
-	<stdbool.h>
-
-1535483722 /home/dave/Development/libtcod-1.7/include/external/pstdint.h
-	<stddef.h>
-	<limits.h>
-	<signal.h>
-	<stdint.h>
-	<sys/inttypes.h>
-	<wchar.h>
-	<stdlib.h>
-	<stdio.h>
-	<string.h>
-
-1535483722 /home/dave/Development/libtcod-1.7/include/libtcod_utility.h
-
-1535483722 /home/dave/Development/libtcod-1.7/include/libtcod_version.h
-
-1535483722 /home/dave/Development/libtcod-1.7/include/bresenham.h
-	"libtcod_portability.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/bsp.h
-	"libtcod_portability.h"
-	"mersenne_types.h"
-	"tree.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/mersenne_types.h
-
-1535483722 /home/dave/Development/libtcod-1.7/include/tree.h
-	"libtcod_portability.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/color.h
-	"libtcod_portability.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/console.h
-	"libtcod_portability.h"
-	"color.h"
-	"console_types.h"
-	"image.h"
-	"list.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/console_types.h
-	"libtcod_portability.h"
-	"color.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/image.h
-	"libtcod_portability.h"
-	"color.h"
-	"console_types.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/list.h
-	"libtcod_portability.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/console_rexpaint.h
-	"libtcod_portability.h"
-	"console.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/fov.h
-	"libtcod_portability.h"
-	"fov_types.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/fov_types.h
-	"libtcod_portability.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/heightmap.h
-	"libtcod_portability.h"
-	"mersenne_types.h"
-	"noise.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/noise.h
-	"libtcod_portability.h"
-	"mersenne_types.h"
-	"noise_defaults.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/noise_defaults.h
-
-1535483722 /home/dave/Development/libtcod-1.7/include/lex.h
-	"libtcod_portability.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/mersenne.h
-	"libtcod_portability.h"
-	"mersenne_types.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/mouse.h
-	"libtcod_portability.h"
-	"mouse_types.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/mouse_types.h
-	"libtcod_portability.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/namegen.h
-	"libtcod_portability.h"
-	"list.h"
-	"mersenne.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/path.h
-	"libtcod_portability.h"
-	"fov_types.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/parser.h
-	"libtcod_portability.h"
-	"color.h"
-	"list.h"
-	"lex.h"
-	"mersenne.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/sys.h
-	"libtcod_portability.h"
-	"list.h"
-	"image.h"
-	"mouse_types.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/txtfield.h
-	"libtcod_portability.h"
-	"color.h"
-	"console_types.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/zip.h
-	"libtcod_portability.h"
-	"color.h"
-	"console_types.h"
-	"image.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/bresenham.hpp
-	"bresenham.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/bsp.hpp
-	"bsp.h"
-	"list.hpp"
-	"mersenne.hpp"
-	"tree.hpp"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/list.hpp
-	"list.h"
-	<string.h>
-	<stdlib.h>
-
-1535483722 /home/dave/Development/libtcod-1.7/include/mersenne.hpp
-	"mersenne.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/tree.hpp
-	"tree.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/color.hpp
-	"color.h"
-	"libtcod_utility.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/console.hpp
-	<string>
-	"console.h"
-	"console_rexpaint.h"
-	"image.hpp"
-	"color.hpp"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/image.hpp
-	"color.hpp"
-	"console.hpp"
-	"image.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/fov.hpp
-	"fov.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/heightmap.hpp
-	"heightmap.h"
-	"noise.hpp"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/noise.hpp
-	"mersenne.hpp"
-	"noise.h"
-	"noise_defaults.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/lex.hpp
-	"lex.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/mouse.hpp
-	"mouse.h"
-	"mouse_types.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/namegen.hpp
-	"list.hpp"
-	"mersenne.hpp"
-	"namegen.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/parser.hpp
-	"color.hpp"
-	"list.hpp"
-	"parser.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/path.hpp
-	"fov.hpp"
-	"path.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/sys.hpp
-	"image.hpp"
-	"mouse.hpp"
-	"sys.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/txtfield.hpp
-	"color.hpp"
-	"console.hpp"
-	"txtfield.h"
-
-1535483722 /home/dave/Development/libtcod-1.7/include/zip.hpp
-	"color.hpp"
-	"console.hpp"
-	"image.hpp"
-	"zip.h"
-
-1552770741 /home/dave/Development/wizardry/libtcod-first-person/inc/actor.hpp
-
-1552751451 source:/home/dave/Development/wizardry/libtcod-first-person/src/main.cpp
-	<filesystem>
-	"libtcod.hpp"
-	"actor.hpp"
-	"map.hpp"
-	"engine.hpp"
-
-1552770354 /home/dave/Development/wizardry/libtcod-first-person/inc/map.hpp
-
-1552772614 /home/dave/Development/wizardry/libtcod-first-person/inc/engine.hpp
-
-1552770469 source:/home/dave/Development/wizardry/libtcod-first-person/src/map.cpp
-	"libtcod.hpp"
-	"map.hpp"
-	"actor.hpp"
-	"engine.hpp"
-
-1552839979 source:/home/dave/Development/wizardry/libtcod-first-person/src/engine.cpp
-	<iostream>
-	"libtcod.hpp"
-	"actor.hpp"
-	"map.hpp"
-	"engine.hpp"
 
 1552700980 /home/dave/Development/wizardry/libtcod-1.11.1/src/libtcod.hpp
 	"libtcod.h"
@@ -636,4 +353,30 @@
 	"console.hpp"
 	"image.hpp"
 	"zip.h"
+
+1553470084 /home/dave/Development/wizardry/libtcod-first-person/inc/actor.hpp
+
+1553470815 source:/home/dave/Development/wizardry/libtcod-first-person/src/engine.cpp
+	<iostream>
+	"libtcod.hpp"
+	"actor.hpp"
+	"map.hpp"
+	"engine.hpp"
+
+1553470091 /home/dave/Development/wizardry/libtcod-first-person/inc/map.hpp
+
+1553470087 /home/dave/Development/wizardry/libtcod-first-person/inc/engine.hpp
+
+1553470102 source:/home/dave/Development/wizardry/libtcod-first-person/src/main.cpp
+	<filesystem>
+	"libtcod.hpp"
+	"actor.hpp"
+	"map.hpp"
+	"engine.hpp"
+
+1553470106 source:/home/dave/Development/wizardry/libtcod-first-person/src/map.cpp
+	"libtcod.hpp"
+	"map.hpp"
+	"actor.hpp"
+	"engine.hpp"
 
